@@ -1,0 +1,11 @@
+{
+  "slug": "love-letter-sol",
+  "name": "Love Letter SOL",
+  "kind": "proof",
+  "description": "Compose a permanent signed letter with optional reveal date and content digest.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
