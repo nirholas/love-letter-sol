@@ -8,7 +8,7 @@ Compose a permanent signed letter with optional reveal date and content digest.
 
 - Source: https://github.com/nirholas/love-letter-sol
 - Primary language: HTML
-- License: Other (see the LICENSE file)
+- License: MIT (see the LICENSE file)
 
 ## Repository layout
 
